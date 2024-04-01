@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
                 openDrawer(drawerLayout);
             }
         });
-        menu.setOnClickListener(new View.OnClickListener() {
+        home.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
 
